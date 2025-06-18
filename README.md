@@ -1,3 +1,5 @@
+![finoralogo](https://github.com/user-attachments/assets/9c8a33c4-f9fe-499c-bfe2-10eae18d933b)  </br>
+
 📱💸
 FINORA (Personal Finance Tracker App!)</br>
 Kotlin Language</br>
@@ -23,4 +25,4 @@ Technologies Used: </br>
 
 
 
-![finoralogo](https://github.com/user-attachments/assets/9c8a33c4-f9fe-499c-bfe2-10eae18d933b)
+

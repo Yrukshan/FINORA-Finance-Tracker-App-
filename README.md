@@ -1,4 +1,4 @@
-📱💸
+📱💸</br>
 FINORA (Personal Finance Tracker App!)
 Kotlin Language
 

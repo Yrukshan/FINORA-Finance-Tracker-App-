@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Primary Dark color (for status bar) -->
+    <color name="colorPrimaryDark">#1B2A3D</color>
+
+    <!-- Secondary color -->
+    <color name="colorSecondary">#4CB0A1</color>
+
+
+    <!-- Background Color -->
+    <color name="backgroundColor">#F1F5F9</color>
+
+    <!-- Text color -->
+    <color name="textColor">#333333</color>
+
+    <!-- Text color for headings -->
+    <color name="headingTextColor">#1F2A3D</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_500">#FF4CAF50</color>
+    <color name="red_500">#FFF44336</color>
+    <color name="orange_500">#FFFF9800</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_color_1">#FF6200EE</color>
+    <color name="chart_color_2">#FF03DAC5</color>
+    <color name="chart_color_3">#FF3700B3</color>
+    <color name="chart_color_4">#FF018786</color>
+    <color name="chart_color_5">#FFBB86FC</color>
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onBackground">#000000</color>
+    <color name="onSurface">#000000</color>
+</resources>

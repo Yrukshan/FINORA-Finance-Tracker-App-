@@ -3,7 +3,7 @@ FINORA (Personal Finance Tracker App!)</br>
 Kotlin Language</br>
 
 🚀 Personal Finance Tracker App! </br>
-📱💸 I'm excited to share that I’ve built a full-featured Android Finance Tracker App using: </br>
+I'm excited to share that I’ve built a full-featured Android Finance Tracker App using: </br>
 🧠 MVVM Architecture </br>
 🗃 Data Persistence (SharedPreferences and Internal Storage) </br>
 📊 MPAndroidChart for visual insights </br>

@@ -20,3 +20,6 @@ Technologies Used: </br>
 🧩 -SharedPreferences (for session) </br>
 📊 -MPAndroidChart </br>
 🔄 -Fragment Navigation </br>
+
+
+finoralogo.png

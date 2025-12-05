@@ -1,4 +1,4 @@
-#FINORA
+# FINORA
 
 ![finoralogo](https://github.com/user-attachments/assets/9c8a33c4-f9fe-499c-bfe2-10eae18d933b)  </br>
 

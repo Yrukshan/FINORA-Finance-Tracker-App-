@@ -17,7 +17,7 @@ I'm excited to share that I’ve built a full-featured Android Finance Tracker A
 🎯 Budget Management and Goal Setting </br>
 📂 User-Specific Data Filtering </br>
 This project was a great opportunity to dive deep into clean architecture, persistent data storage, and creating a seamless user experience with meaningful insights. </br> 
-Technologies Used: </br>
+Technologies Used : </br>
 🔗 -Kotlin </br>
 💻 -SharedPreferences and Internal Storage </br>
 🗄  -LiveData & ViewModel </br>
